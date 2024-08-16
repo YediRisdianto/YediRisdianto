@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=yedirisdianto&label=Profile%20views&color=0e75b6&style=flat" alt="yedirisdianto" />
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=YediRisdianto&icon=4&color=8)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **yedi.risdianto1@gmail.com**
