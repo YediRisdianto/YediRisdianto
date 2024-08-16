@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yedi Risdianto</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
----
-
 [![](https://visitcount.itsvg.in/api?id=YediRisdianto&icon=4&color=8)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Laravel**
