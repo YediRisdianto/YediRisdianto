@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yedi Risdianto</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yedirisdianto&label=Profile%20views&color=0e75b6&style=flat" alt="yedirisdianto" />
-</p>
+---
 
 [![](https://visitcount.itsvg.in/api?id=YediRisdianto&icon=4&color=8)](https://visitcount.itsvg.in)
 
