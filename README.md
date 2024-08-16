@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=yedirisdianto&label=Profile%20views&color=0e75b6&style=flat" alt="yedirisdianto" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yedirisdianto&theme=darkhub&no-bg=true&no-frame=true" alt="yedirisdianto" />
-  </a> 
-</p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **yedi.risdianto1@gmail.com**
