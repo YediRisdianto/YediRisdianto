@@ -33,7 +33,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
-
-## 🐍
-
-<img src="https://raw.githubusercontent.com/YediRisdianto/YediRisdianto/output/snake.svg" alt="Snake animation" />
