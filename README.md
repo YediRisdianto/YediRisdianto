@@ -5,7 +5,7 @@
 ## About Me
 
 - ✨ Creating bugs since 2021
-- 📚 I'm currently improving my Laravel skills
+- 📚 I'm currently improving my skills
 - 🎯 Goals: live in a cold place ❄ and speak english 🚀
 
 ## I code with
